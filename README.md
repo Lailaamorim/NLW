@@ -1,12 +1,12 @@
 # NLW eSports
 
-![preview](./.github/preview.png)
+![Laila12](./github/Laila12.png)
 
 > Trilha Explorer 😁
 
 Projeto Construído do evento Next level Week da Rocketseat.😘
 
-[CLIQUE AQUI PARA ACESSAR😍](https://github.com/Lailaamorim/nlw-sports-explore)
+[🔗CLIQUE AQUI PARA ACESSAR😍](https://Lailaamorim.github.io/nlw-sports-explore)
 
 ## 🙂Tecnologias
 
