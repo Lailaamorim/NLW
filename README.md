@@ -6,7 +6,7 @@
 
 Projeto Construído do evento Next level Week da Rocketseat.😘
 
-[🔗CLIQUE AQUI PARA ACESSAR😍](https://Lailaamorim.github.io/nlw-sports-explore)
+[🔗CLIQUE AQUI PARA ACESSAR😍](http://lailaamorim.github.io/NLW-eSports-explore/)
 
 ## 🙂Tecnologias
 
